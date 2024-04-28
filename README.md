@@ -1,38 +1,3 @@
-# Plans and Theory Tests
-
-## Theory Tests
----
-
-[Databases Introduction. Data Definition and Datatypes.](https://forms.gle/5cx8VGsR2R2oX6Dt6)
-
----
-
-[Basic CRUD](https://forms.gle/VHcF8oj5qLz7a9ec7)
-
----
-
-[Built-in Functions](https://forms.gle/zUacHr5xNV8YNVme7)
-
----
-
-[Data Aggregation](https://forms.gle/zDr5w2v5uDfTxT6v5)
-
----
-
-[Table Relations](https://forms.gle/qYAZDquBNGSQmTYx9)
-
----
-
-[Subqueries and Joins](https://forms.gle/iquiVSbKE2xd7QRTA)
-
----
-
-[Data Programmability](https://forms.gle/bWeXZg21VBwMLyQ17)
-
----
-
-## Plans
-
 ### Databases Introduction. Data Definition and Datatypes.
 
 `Едно е само да съхраняваме данни, друго е вече да ги менижираме`
